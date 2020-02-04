@@ -16,14 +16,17 @@ body{
     width: 100%;
     height:auto;
     color: white;
-    padding: 15px;
+    padding-left: 6%;
+    padding-top: 1%;
+    margin-top: 2%;
+    margin-right: 1%;
+    margin-left: 1%;
+    padding-right: 5%;
+    border-radius: 2%;
 }
 
 .bg-secondary{
     background-color: rgb(32, 32, 32) !important;
-}
-.fixed{
-    position: fixed;
 }
 
 .formbubble{
@@ -35,11 +38,14 @@ body{
 
 .portfolio{
     background-color: rgb(32, 32, 32);
-    width: auto;
-    padding-left: 5%;
-    padding-top: 5%;
+    width: 100%;
+    padding-left: 4%;
+    padding-top: 2%;
+    padding-right: 3%;
     color: white;
     margin-top: 2%;
+    margin-right: 1%;
+    border-radius: 2%;
 }
 .content{
     color: black;
@@ -52,5 +58,8 @@ body{
 }
 .card{
     margin: 10px;
-
+    border: 3px solid rgb(0, 0, 0);
+    color: white;
 }
+
+
